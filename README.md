@@ -6,7 +6,7 @@
 </div>
 <div align="center">
     <a href="https://ng.linkedin.com/in/abdulrahman-ibn-saeed-3655ba219"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
-    <a href="https://twitter.com/Ibn_saeed1"><img src="https://img.shields.io/twitter/url?style=flat&logo=twitter" /></a>
+    <a href="https://twitter.com/Ibn_saeed1"><img src="https://img.shields.io/twitter/url?color=blue&label=Twitter&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Fcolor%3Dblue%26label%3DTwitter" /></a>
 </div>
 
 <h1 align="center">About</h1>

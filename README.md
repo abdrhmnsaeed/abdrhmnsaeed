@@ -7,7 +7,6 @@
 <div align="center">
     <a href="https://ng.linkedin.com/in/abdulrahman-ibn-saeed-3655ba219"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
     <a href="https://twitter.com/Ibn_saeed1"><img src="https://img.shields.io/twitter/url?style=social" /></a>
-    <a href="https://stackoverflow.com/users/11837259/ahmed-fathy"><img src="https://img.shields.io/badge/Stack Overflow-f48024?style=flat&logo=stackoverflow&logoColor=white" /></a>
 </div>
 
 <h1 align="center">About</h1>

@@ -31,7 +31,7 @@
         "Python",         "Object-Oriented Programming (OOP)",    "Dynamic Enviroment",
         "Java",           "Git",                                  "Clean Code",
         "JavaScript",     "API",                                  "Firbase",
-        "SQL",            "Problem Solving",                      "Linux",
+        "Golang",         "SQL",                      "Linux",
     ]
 }
 ```
@@ -43,7 +43,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdrhmnsaeed&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" height="200" />
     <br>
     <br>
-    <a href="https://github.com/Izimartin/github-profile-views-counter">
+    <a href="https://github.com/abdrhmnsaeed/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=abdrhmnsaeed">
 </a>
 </div>

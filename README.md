@@ -15,7 +15,7 @@
 
 **Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.**
 
-* 🔭 **I’m currently working on**: [Voting App](https://github.com/Izimartin/Edward-Speak).
+* 🔭 **I’m currently working on**: [Education Management System](https://github.com/FosterSOAsare/education-management-system).
 * 🌱 **I’m currently learning**: `Web3`.
 * 💬 **Ask me about**: `Tech`.
 * 📫 **How to reach me**: `above links 👆`, OR [abdrhmnsaeed@gmail.com].

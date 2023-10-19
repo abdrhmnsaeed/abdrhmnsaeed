@@ -31,7 +31,7 @@
         "Python",         "Object-Oriented Programming (OOP)",    "Dynamic Enviroment",
         "Java",           "Git",                                  "Clean Code",
         "JavaScript",     "API",                                  "Firbase",
-        "Golang",         "SQL",                      "Linux",
+        "Golang",         "SQL",                                  "Linux"
     ]
 }
 ```

@@ -15,7 +15,7 @@
 
 **Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.**
 
-* 🔭 **I’m currently working on**: [Education Management System](https://github.com/FosterSOAsare/education-management-system).
+* 🔭 **I’m currently working on**: [Gombe State Internal Revenue Portal](https://gombeirs.com/).
 * 🌱 **I’m currently learning**: `Web3`.
 * 💬 **Ask me about**: `Tech`.
 * 📫 **How to reach me**: `above links 👆`, OR [abdrhmnsaeed@gmail.com].
@@ -28,10 +28,11 @@
 ```json
 {
     "skills": [
+        "Reactjs",        "Tailwind Css",                         "JavaScript",
         "Python",         "Object-Oriented Programming (OOP)",    "Dynamic Enviroment",
         "Java",           "Git",                                  "Clean Code",
-        "JavaScript",     "API",                                  "Firbase",
-        "Golang",         "SQL",                                  "Linux"
+        "SQL",            "API",                                  "Firbase",
+        "Golang",         "SQL",                                  "Linux",
     ]
 }
 ```

@@ -1,50 +1,68 @@
 <div align="center">
-    <img src="GitHub.png" height="200" />
+
+# Abdulrahman Ibn-Sa'eed
+
+**Full-Stack Software Engineer & Systems Builder**
+
+Crafting scalable backend architectures, reactive web applications, and robust API ecosystems.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://ng.linkedin.com/in/abdulrahman-ibn-saeed-3655ba219)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Ibn_saeed1)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdrhmnsaeed@gmail.com)
+
+---
+
 </div>
+
+### 👨‍💻 Executive Summary
+
+Software engineer specializing in end-to-end web engineering, distributed systems, and clean architecture. Focused on shipping maintainable, high-throughput software and building resilient backend services while maintaining intuitive frontend user experiences.
+
+- 🔭 **Currently Building:** Scalable web applications & enterprise platforms
+- ⚡ **Core Focus:** Clean API design, relational data modeling, and performance debugging
+- 💬 **Ask Me About:** Full-stack architecture, backend system design, and database normalization
+- 📫 **Direct Reach:** [abdrhmnsaeed@gmail.com](mailto:abdrhmnsaeed@gmail.com)
+
+---
+
+### 🛠️ Technical Stack
+
+#### **Backend & Languages**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+#### **Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### **Databases & Storage**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+#### **DevOps, Tooling & Workflow**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST-APIs-009688?style=flat-square)
+
+---
+
+### 📊 Performance & Contribution Overview
+
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Abdulrahman+Ibn-Sa'eed;Software+Engineer;Freelancer;Open-Source+Enthusiast" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdrhmnsaeed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Abdulrahman's GitHub Stats" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdrhmnsaeed&theme=tokyonight&hide_border=true" alt="Abdulrahman's Streak" height="175" />
 </div>
-<div align="center">
-    <a href="https://ng.linkedin.com/in/abdulrahman-ibn-saeed-3655ba219"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
-    <a href="https://twitter.com/Ibn_saeed1"><img src="https://img.shields.io/twitter/url?color=blue&label=Twitter&url=https%3A%2F%2Fimg.shields.io%2Ftwitter%2Furl%3Fcolor%3Dblue%26label%3DTwitter" /></a>
-</div>
 
-<h1 align="center">About</h1>
-
-**I'm a software engineer with experience in addressing problems and thriving in fast-paced settings. Dedicated to completing projects quickly and accurately, Proud team player.**
-
-**Detailed-oriented, responsible, committed engineer, With a get-it-done, on-time, and high-quality product spirit. Self-quick learner, self-motivated, and social.**
-
-* 🔭 **I’m currently working on**: [Gombe State Internal Revenue Portal](https://gombeirs.com/).
-* 🌱 **I’m currently learning**: `Web3`.
-* 💬 **Ask me about**: `Tech`.
-* 📫 **How to reach me**: `above links 👆`, OR [abdrhmnsaeed@gmail.com].
-* 🤔 **I’m currently open for**: `A new job opportunity`.
-* 👨‍💻 **All of my projects are available at**: [My GitHub](https://github.com/abdrhmnsaeed?tab=repositories).
-
-
-<h1 align="center">Skills</h1>
-
-```json
-{
-    "skills": [
-        "Reactjs",        "Tailwind Css",                         "JavaScript",
-        "Python",         "Object-Oriented Programming (OOP)",    "Dynamic Enviroment",
-        "Java",           "Git",                                  "Clean Code",
-        "SQL",            "API",                                  "Firbase",
-        "Golang",         "SQL",                                  "Linux",
-    ]
-}
-```
+<br>
 
 <div align="center">
-    <h1>Contribution Activity</h1>
-    <img src="https://github-readme-stats.vercel.app/api?username=abdrhmnsaeed&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" height="200" />
-    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdrhmnsaeed&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" height="200" />
-    <br>
-    <br>
-    <a href="https://github.com/abdrhmnsaeed/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=abdrhmnsaeed">
-</a>
+  <img src="https://komarev.com/ghpvc/?username=abdrhmnsaeed&style=flat-square&color=2bbc8a" alt="Profile Views" />
 </div>

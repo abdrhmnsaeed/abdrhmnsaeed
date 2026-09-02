@@ -60,7 +60,7 @@ Software engineer specializing in end-to-end web engineering, distributed system
 ### 📊 Performance & Contribution Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdrhmnsaeed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Abdulrahman's GitHub Stats" height="175" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=abdrhmnsaeed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Abdulrahman's GitHub Stats" height="175" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdrhmnsaeed&theme=tokyonight&hide_border=true" alt="Abdulrahman's Streak" height="175" />
 </div>
 
